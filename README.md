@@ -1,4 +1,4 @@
-## TEAM 
+![image](https://github.com/james-tiger/GAME/assets/52138474/0dbc4239-cb54-4f02-aa26-2071cf96a492)## TEAM 
 - **Мостафа Мохамед Ашраф Якут Саад**
 - **Ахмед эйад эмад Махмуд**
 
@@ -53,7 +53,7 @@ Pac-Man has had a significant impact on popular culture and is considered one of
 
 ### Gameplay Video
 
-[![Pac-Man Gameplay](https://img.youtube.com/vi/Y1Q8SgpBhSY/0.jpg)](https://www.youtube.com/watch?v=Y1Q8SgpBhSY)
+[![Pac-Man Gameplay]([https://img.youtube.com/vi/Y1Q8SgpBhSY/0.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fphoneky.com%2Fgif-animations%2F%3Fid%3Ds2s143955&psig=AOvVaw0tWqboQPMMiQtOPjZTgiWe&ust=1714661268480000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOic25HZ7IUDFQAAAAAdAAAAABAk))]([https://www.youtube.com/watch?v=Y1Q8SgpBhSY](https://www.youtube.com/watch?v=i_OjztdQ8iw))
 
 For a visual demonstration of Pac-Man gameplay, watch the video above. 🎥
 ---
