@@ -1,4 +1,4 @@
-![image](https://github.com/james-tiger/GAME/assets/52138474/0dbc4239-cb54-4f02-aa26-2071cf96a492)
+![Pac-Man](https://i.pinimg.com/originals/48/4c/2c/484c2c080ebba2b90ba94e7839933a39.gif)
 ## TEAM 
 - **Мостафа Мохамед Ашраф Якут Саад**
 - **Ахмед эйад эмад Махмуд**
