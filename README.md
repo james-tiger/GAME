@@ -54,6 +54,7 @@ Encounter a diverse array of interactive elements scattered throughout the labyr
 ---
 
 ## 4. Gameplay Overview
+**Pac-Man: The Eternal Maze**, use the arrow keys to control Pac-Man as he navigates through the maze. Your objective is to eat all the dots and power pellets while avoiding the ghosts. Eating a power pellet will temporarily allow you to turn the tables and eat the ghosts. Be strategic, swift, and watch out for ambushes as you strive to achieve the highest score possible🕹️
 
-**Pac-Man: The Eternal Maze** offers a captivating gameplay experience that combines timeless mechanics with modern design elements, providing players with hours of immersive entertainment. 🕹️
+**Pac-Man: The Eternal Maze** offers a captivating gameplay experience that combines timeless mechanics with modern design elements, providing players with hours of immersive entertainment.📍
 
