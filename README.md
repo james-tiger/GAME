@@ -58,3 +58,9 @@ Pac-Man has had a significant impact on popular culture and is considered one of
 ## How to Play Pac-Man
 
 Use the arrow keys to control Pac-Man as he navigates through the maze. Your objective is to eat all the dots and power pellets while avoiding the ghosts. Eating a power pellet will temporarily allow you to turn the tables and eat the ghosts. Be strategic, swift, and watch out for ambushes as you strive to achieve the highest score possible. 🕹️
+---
+## Pac-Man Gameplay Video 🎮
+
+Learn how to play Pac-Man by watching this gameplay video inside game
+
+Click on the MainMenu "How Play" Pac-Man! 🕹️👻
