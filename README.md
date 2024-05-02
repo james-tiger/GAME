@@ -27,11 +27,6 @@
 In **Pac-Man: The Eternal Maze**, players embark on a timeless adventure as they step into the shoes of the iconic Pac-Man. Set within a mesmerizing and mysterious labyrinthine world, the game unfolds a narrative of simplicity and depth. 🌟
 
 ---
-
-## Pac-Man Game Overview
-
-Pac-Man is a classic arcade game that was first released in 1980. It was developed by Namco and has since become one of the most iconic and recognizable video games of all time. 🕹️
-
 ### Plot
 
 In Pac-Man, players control the titular character, Pac-Man, as he navigates through a maze filled with pellets and ghosts. The objective is to eat all the pellets while avoiding the ghosts, which will result in losing a life if caught. Eating power pellets allows Pac-Man to temporarily turn the tables and eat the ghosts. 👻
